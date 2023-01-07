@@ -16,9 +16,12 @@ create a website demo
 
 ## Embed a song
 
-[https://support.apple.com/en-gw/guide/music-web/apdm0783785d/web]
+[https://support.apple.com/en-gw/guide/music-web/apdm0783785d/web](https://support.apple.com/en-gw/guide/music-web/apdm0783785d/web)
 
 ## Insert an image
+
+![QR code!](./images/qr.jpeg "QR code")
+
 
 ## Markdown guide
 [https://www.markdownguide.org/cheat-sheet/](https://www.markdownguide.org/cheat-sheet/)
