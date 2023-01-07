@@ -16,7 +16,6 @@ Carnac是一款可以实时显示当前的键盘操作的实用小软件，可�
 配置方法：
 <iframe src="//player.bilibili.com/player.html?aid=61104141&cid=106312750&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
 
-<iframe src="//player.bilibili.com/player.html?aid=13994132&bvid=BV14x411t7ZU&cid=22856126&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
 
 
 # 腾讯桌面整理
@@ -24,3 +23,5 @@ Carnac是一款可以实时显示当前的键盘操作的实用小软件，可�
 
 注意：点击 下载桌面整理独立版
 否则会自动下载腾讯电脑管家安装包
+
+<iframe src="//player.bilibili.com/player.html?aid=13994132&bvid=BV14x411t7ZU&cid=22856126&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
