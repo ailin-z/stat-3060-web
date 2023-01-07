@@ -5,10 +5,10 @@ create a website demo
 ## Find your theme
 
 1. Basic options:
-[https://pages.github.com/themes]
+[https://pages.github.com/themes](https://pages.github.com/themes)
 
 2. Fancy options:
-[https://jekyllrb.com/docs/themes/]
+[https://jekyllrb.com/docs/themes/](https://jekyllrb.com/docs/themes/)
 
 ## Embed a video
 
@@ -21,4 +21,4 @@ create a website demo
 ## Insert an image
 
 ## Markdown guide
-[https://www.markdownguide.org/cheat-sheet/]
+[https://www.markdownguide.org/cheat-sheet/](https://www.markdownguide.org/cheat-sheet/)
