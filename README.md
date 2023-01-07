@@ -3,11 +3,6 @@ create a website
 
 Embed a video
 
----
-layout: post
-title:  "win7常用小插件"
-date:   2019-07-14 15:55:25 +0800
----
 # Carnac键盘显示
 官方下载地址： http://code52.org/carnac/
 
@@ -20,6 +15,9 @@ Carnac是一款可以实时显示当前的键盘操作的实用小软件，可�
 
 配置方法：
 <iframe src="//player.bilibili.com/player.html?aid=61104141&cid=106312750&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
+
+<iframe src="//player.bilibili.com/player.html?aid=13994132&bvid=BV14x411t7ZU&cid=22856126&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
+
 
 # 腾讯桌面整理
 官方下载地址：https://guanjia.qq.com/product/zmzl/
