@@ -1,12 +1,24 @@
-# stat-3060-web
-create a website
+# Create your website
+create a website demo
+<hr>	
 
-Find your theme
+## Find your theme
 
-https://pages.github.com/themes/
+1. Basic options:
+[https://pages.github.com/themes]
 
-Embed a video
+2. Fancy options:
+[https://jekyllrb.com/docs/themes/]
+
+## Embed a video
 
 <iframe src="//player.bilibili.com/player.html?aid=13994132&bvid=BV14x411t7ZU&cid=22856126&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>
 
-[Embed a song](https://support.apple.com/en-gw/guide/music-web/apdm0783785d/web)
+## Embed a song
+
+[https://support.apple.com/en-gw/guide/music-web/apdm0783785d/web]
+
+## Insert an image
+
+## Markdown guide
+[https://www.markdownguide.org/cheat-sheet/]
